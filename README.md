@@ -7,5 +7,5 @@ Just, clone this reposity
 # chmod 777 69phisher.
 # bash 69phisher.sh
 
-.Dependencies
+ Dependencies
 
